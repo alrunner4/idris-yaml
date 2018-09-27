@@ -1,6 +1,5 @@
 module Main
-
-import Yaml
+import YAML
 
 procs : String -> IO ()
 procs file = case parse yamlToplevelValue file of

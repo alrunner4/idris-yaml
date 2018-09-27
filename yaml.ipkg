@@ -1,4 +1,3 @@
-package Yaml
-
-modules = Yaml
+package yaml
+modules = YAML
 opts = "-p lightyear -p contrib"
